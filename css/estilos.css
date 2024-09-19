@@ -14,9 +14,6 @@ th, td {
    border-spacing: 0;
 }
 tbody{
-<<<<<<< HEAD
-    border: 3px solid black;
-=======
     background-color: grey;
->>>>>>> ca32842d13d7601a5737000dab3d606bae3c2cdc
+    border: 3px solid black;
 }
