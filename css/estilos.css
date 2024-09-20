@@ -15,5 +15,5 @@ th, td {
 }
 tbody{
     background-color: grey;
-    border-width: 3px solid orangered;
+    border: 3px solid orangered;
 }
