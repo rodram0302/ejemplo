@@ -5,13 +5,15 @@ table {
     width: 70%;
     border: 2px solid orangered;
     border-spacing: 5px;
+    border-collapse: collapse;
 }
 th, td {
    width: 25%;
-   text-align: left;
+   text-align: center;
    vertical-align: top;
-   border: 1px solid  ;
+   border: 1px solid #ccc ;
    border-spacing: 0;
+   padding: 10px;
 }
 tbody{
     border: 3px solid orangered;
@@ -24,6 +26,9 @@ header{
 th {
     text-align: right; 
     background-color: blue;
-    color: red; /* Color de fuente rojo para el encabezado */
+    color: red; 
     padding: 10px;
+}
+thead{
+    background-color: #f2f2f2;
 }
