@@ -3,17 +3,18 @@ body{
 }
 table {
     width: 100%;
-    border: 1px solid #000;
+    border: 2px solid orangered;
     border-spacing: 5px;
 }
 th, td {
    width: 25%;
    text-align: left;
    vertical-align: top;
-   border: 1px solid #000;
+   border: 1px solid  ;
    border-spacing: 0;
 }
 tbody{
+    border: 3px solid orangered;
     background-color: grey;
-    border-width: 3px;
+   
 }
