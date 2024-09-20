@@ -22,6 +22,7 @@ header{
     background-color: blue;
 }
 th {
+    text-align: right; 
     background-color: blue;
     color: red; /* Color de fuente rojo para el encabezado */
     padding: 10px;
