@@ -21,3 +21,8 @@ tbody{
 header{
     background-color: blue;
 }
+th {
+    background-color: blue;
+    color: red; /* Color de fuente rojo para el encabezado */
+    padding: 10px;
+}
